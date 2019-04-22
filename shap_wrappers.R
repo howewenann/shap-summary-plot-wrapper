@@ -2,6 +2,8 @@
 # originally published at https://liuyanguu.github.io/post/2018/10/14/shap-visualization-for-xgboost/
 # All the credits to the author.
 
+# Added wrapper for iml package
+# https://cran.r-project.org/web/packages/iml/index.html
 
 ## functions for plot
 # return matrix of shap score and mean ranked score list
